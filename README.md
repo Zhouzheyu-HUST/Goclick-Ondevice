@@ -23,13 +23,14 @@
 
 ```
 app/src/main/assets/
-├── vision_encoder_int8.onnx
-├── encoder_model_int8.onnx
-├── decoder_model_int8.onnx
+├── vision_encoder_int8.onnx（可以选用不同的量化版本）
+├── encoder_model_int8.onnx（可以选用不同的量化版本）
+├── decoder_model_int8.onnx（可以选用不同的量化版本）
 ├── vocab.json
 ├── tokenizer.json
 ├── tokenizer_config.json
-└── special_tokens_map.json
+├── special_tokens_map.json
+└── mask.jpg
 ```
 
 ### 2. 构建应用
