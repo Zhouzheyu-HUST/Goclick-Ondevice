@@ -13,7 +13,7 @@
 
 模型文件托管在Hugging Face上：
 
-👉 **[https://huggingface.co/你的用户名/你的模型仓库名](https://huggingface.co/你的用户名/你的模型仓库名)**
+👉 **[https://huggingface.co/ThreeLucky/Goclick-Ondevice](https://huggingface.co/ThreeLucky/Goclick-Ondevice)**
 
 ## 配置说明
 
